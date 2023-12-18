@@ -26,3 +26,4 @@ playwright install
 
 
 to reload the project
+add venv to gitignore.
